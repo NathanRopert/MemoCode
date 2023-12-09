@@ -22,7 +22,7 @@ def hello_world():
 if __name__ == '__main__':
     app.run(debug=True)
 ```
-L'instruction if __name__ == '__main__': est utilisée pour exécuter le serveur de développement uniquement lorsque le script est exécuté directement par Python. Lorsque le fichier est importé, il ne sera pas exécuté.
+L'instruction `if __name__ == '__main__':` est utilisée pour exécuter le serveur de développement uniquement lorsque le script est exécuté directement par Python. Lorsque le fichier est importé, il ne sera pas exécuté.
 
 ## Les routes
 Les routes sont les URL de votre application. Elles permettent de définir les actions à effectuer lorsque l'utilisateur accède à l'URL de votre application dans un navigateur web. Les routes sont définies à l'aide de l'annotation @app.route(). On peut ajouter des parametre dans l'URL. 
