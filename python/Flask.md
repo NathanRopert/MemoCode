@@ -3,7 +3,7 @@
 Flask est un framework web pour Python. Il offre une approche simple et flexible pour créer des applications web. Il permet de rapidement mettre en place des applications web, des APIs.
 
 ## Liens vers mes projets Git
-- [Projet Flask 1 - Application mobile OneShoot](lien_vers_ton_projet_git_1)
+- [Projet Flask 1 - Application mobile OneShoot](https://github.com/cegepmatane/projet-mobile-2023-The0o/tree/main/API)
 
 ## Installation de flask 
 pip install flask
